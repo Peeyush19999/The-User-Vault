@@ -1,9 +1,9 @@
 # The-User-Vault
 
-Installation & Setup
+## Installation & Setup
 Follow these steps to set up and run the project locally:
 
-Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/Peeyush19999/The-User-Vault.git
 
